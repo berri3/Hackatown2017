@@ -60,7 +60,7 @@ def nearest_library(intercom):
         return "nowhere since there are no other floors for now."
 
 def nearest_cafeteria(intercom):
-
+    return
 ##def nearest_bathroom(intercom):
 ##    if intercom.get_floor() == "1"
 ##        return "to near room A123."
